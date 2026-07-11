@@ -5,7 +5,7 @@ const images = [
   "/images/engagement-2.jpg",
   "/images/housewarming-2.jpg",
   "/images/baby-shower.jpg",
-  "/images/Wedding-garland.jpg",
+  "/images/wedding-floral-garland.jpg",
   "/images/reception-garland.jpg",
 ];
 
