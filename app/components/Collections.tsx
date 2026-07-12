@@ -32,7 +32,7 @@ export default function Collections() {
         </div>
 
         {/* Collection Cards */}
-        <div className="mt-20 flex flex-wrap justify-center gap-10">
+        <div className="mt-12 flex flex-wrap justify-center gap-10">
 
           {collections.map((item) => (
             <div
@@ -40,7 +40,7 @@ export default function Collections() {
               className="group w-full max-w-sm overflow-hidden rounded-3xl bg-white shadow-lg transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl"
             >
               {/* Image */}
-              <div className="relative h-[420px] overflow-hidden">
+              <div className="relative h-[360px] overflow-hidden">
 
                 <Image
                   src={item.image}
