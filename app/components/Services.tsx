@@ -27,7 +27,7 @@ const services = [
   },
   {
     title: "Wedding Garland",
-    image: "/images/wedding-garland.jpg",
+    image: "/images/wedding-floral-garland-1.jpg",
     description:
       "Premium floral artistry handcrafted for every ceremony.",
   },
