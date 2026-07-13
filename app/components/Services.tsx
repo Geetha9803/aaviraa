@@ -85,6 +85,7 @@ export default function Services() {
                   {service.title}
                 </h3>
 
+
                 <p className="mt-4 leading-8 text-gray-600">
                   {service.description}
                 </p>

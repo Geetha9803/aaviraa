@@ -4,7 +4,7 @@ const collections = [
   {
     title: "Engagement Decor",
     category: "ENGAGEMENT",
-    image: "/images/engagement-decor.jpg",
+    image: "/images/engagement-decor-1.jpg",
     description:
       "A beautifully crafted engagement stage featuring elegant floral décor, luxurious seating, and timeless South Indian styling.",
   },
